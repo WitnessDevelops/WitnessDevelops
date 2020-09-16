@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello  👋
+## 13 year old front-end web developer. Programming is just one small thing I do, dont expect me to respond fast :)
+
+## Projects
+###None Currently
+
+## Contact Me 💬
+### Discord - Witness#7785
 
 <!--
 **WitnessDevelops/WitnessDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
