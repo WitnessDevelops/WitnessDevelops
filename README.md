@@ -1,5 +1,5 @@
 # Hello  👋
-## 13 year old front-end web developer. Programming is just one small thing I do, dont expect me to respond fast :)
+## 14 year old front-end web developer. Programming is just one small thing I do, dont expect me to respond fast :)
 
 ## Projects
 ### None Currently
