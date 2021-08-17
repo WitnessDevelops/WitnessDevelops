@@ -1,8 +1,8 @@
-# Hello  👋
+
 ## not really developing stuff anymore
 
 ## Projects
-### nothin.
+### nothing.
 
 ## Contact Me 💬
 ### Discord - Witness#7785
