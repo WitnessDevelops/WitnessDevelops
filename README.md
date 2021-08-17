@@ -1,8 +1,8 @@
 # Hello  👋
-## 14 year old web/python dev. Just small projects nothing big.
+## not really developing stuff anymore
 
 ## Projects
-### speed-Click autoclicker (python)
+### nothin.
 
 ## Contact Me 💬
 ### Discord - Witness#7785
